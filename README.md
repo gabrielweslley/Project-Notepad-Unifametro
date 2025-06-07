@@ -37,6 +37,16 @@
   <li>🗑️ Exclusão de notas</li>
 </ul>
 
+<h2>🔗 Repositório do Front-end</h2>
+
+<p>
+  O código-fonte da interface Flutter está disponível no GitHub:
+</p>
+
+<p>
+  👉 <a href="https://github.com/gabrielweslley/Project-Notepad-Unifametro/tree/master/unifametro_notepad_frontend#readme" target="_blank"><strong>Ver front-end no GitHub</strong></a>
+</p>
+
 <h2>🚀 Objetivo</h2>
 
 <p>
